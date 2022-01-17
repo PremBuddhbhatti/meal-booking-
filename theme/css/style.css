@@ -2479,4 +2479,7 @@ input[type="tel"]:focus {
   font-size: 20px;
   color: #555;
 }
-/*# sourceMappingURL=style.css.map */
+
+.cart-inline {
+  display: inline-block;
+} /*# sourceMappingURL=style.css.map */ ;
